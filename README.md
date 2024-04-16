@@ -1,25 +1,45 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Galeria de art online
 
-Breve descrição do que o seu projeto faz.
+A aplicação de Galeria de Arte Online tem como objetivo proporcionar uma experiência envolvente e acessível para os amantes da arte.
+
+Ao desenvolver esta aplicação, buscando criar um espaço digital onde artistas possam exibir suas criações e os apreciadores de arte possam descobrir e apreciar novas obras. Os usuários poderão explorar uma ampla gama de obras de arte, conhecer os artistas por trás delas e até mesmo adquirir peças para suas coleções pessoais.
+
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+536676 - Maria Beatriz Rodrigues de Sousa Fernandes
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+artista
+usuário logado
+usuário não logado.
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Obra de Arte
+Usuário
+Lance
+Comentario
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+Cadastro de Obras de Arte:
+Deve ser possível cadastrar novas obras de arte, incluindo título, descrição, artista, técnica, estilo e data de criação.
+Deve ser possível cadastrar novos artistas, incluindo nome, biografia e nacionalidade.
 
+Cadastro de Artistas:
+Deve ser possível cadastrar novos artistas, incluindo nome, biografia e nacionalidade.
+
+Registro de Lances:
+O sistema deve permitir o registro de lances em obras de arte.
+Deve haver uma tabela para registrar os lances, contendo informações como o valor do lance, o lance mais alto e possivelmente o histórico de lances.
+
+Gestão de Comentários:
+Deve ser possível que os usuários deixem comentários sobre obras de arte.
+Os comentários devem estar vinculados à obra de arte.
 
 ----
 
