@@ -15,7 +15,7 @@ artista
 usuário logado
 usuário não logado.
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
