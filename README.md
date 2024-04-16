@@ -11,17 +11,17 @@ Ao desenvolver esta aplicação, buscando criar um espaço digital onde artistas
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-artista
-usuário logado
+artista, 
+usuário logado, 
 usuário não logado.
 
 
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Obra de Arte
-Usuário
-Lance
+Obra de Arte, 
+Usuário, 
+Lance e
 Comentario
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
